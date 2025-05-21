@@ -1,6 +1,7 @@
 # Hacker News to Telegram Bot
 
 Fetches the latest Hacker News jobs and front page posts via RSS, summarizes them using the Mistral API, and sends formatted messages (with emojis and Telegram HTML) to a Telegram channel.
+You can check it out here: https://t.me/daliy_tech_hunt
 
 ## Features
 - Fetches Hacker News jobs and front page posts using RSS
